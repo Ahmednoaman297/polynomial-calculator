@@ -1,4 +1,3 @@
-# polynomial-calculator
 # Polynomial Equation Solver
 
 ## Overview
